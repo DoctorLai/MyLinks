@@ -1,4 +1,4 @@
-# My Domains
+# Domains
 - https://justyy.com 
 - https://weibomiaopai.com 
 - https://helloacm.com 
@@ -10,7 +10,7 @@
 - https://happyukgo.com 
 - https://isvbscriptdead.com
 
-# My Other Links
+# Profile
 - https://about.me/zhihua.lai
 - https://stackoverflow.com/cv/steakovercooked
 - https://www.v2ex.com/member/justyy
@@ -25,3 +25,11 @@
 - https://www.instagram.com/doctorlai/
 - https://twitter.com/doctorzlai
 - https://weibo.com/drlai
+- https://www.facebook.com/ACMer2013/
+
+# Affliates
+- https://steakovercooked.com/doctor-zhihua-lai-resume.php#links
+
+# Donations
+- https://www.paypal.me/doctorlai/5
+- https://helloacm.com/api/echo/?s=bitcoin:1J88t5UAgKBHhMgzkyH9bpY5mPdCYAe5XQ
