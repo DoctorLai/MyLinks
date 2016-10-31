@@ -9,3 +9,9 @@
 - https://steakovercooked.com 
 - https://happyukgo.com 
 - https://isvbscriptdead.com
+
+# My Other Links
+- https://about.me/zhihua.lai
+- https://stackoverflow.com/cv/steakovercooked
+- https://www.v2ex.com/member/justyy
+- https://steakovercooked.quora.com/
