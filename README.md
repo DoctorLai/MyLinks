@@ -26,9 +26,16 @@
 - https://twitter.com/doctorzlai
 - https://weibo.com/drlai
 - https://www.facebook.com/ACMer2013/
+- https://uk.pinterest.com/steakovercooked/
 
 # Affliates
 - https://steakovercooked.com/doctor-zhihua-lai-resume.php#links
+- https://justyy.com/out/quickhostuk
+- https://justyy.com/out/namesilo
+- https://justyy.com/out/vultr2
+- https://justyy.com/out/tcb
+- https://justyy.com/out/amex
+- https://justyy.com/out/plusnet
 
 # Donations
 - https://www.paypal.me/doctorlai/5
