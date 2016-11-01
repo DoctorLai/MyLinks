@@ -31,12 +31,12 @@
 
 # Affliates
 - https://steakovercooked.com/doctor-zhihua-lai-resume.php#links
-- https://justyy.com/out/quickhostuk
-- https://justyy.com/out/namesilo
-- https://justyy.com/out/vultr2
-- https://justyy.com/out/tcb
-- https://justyy.com/out/amex
-- https://justyy.com/out/plusnet
+- QuickHostUK VPS (KVM): https://justyy.com/out/quickhostuk
+- Namesilo Domain Registration: https://justyy.com/out/namesilo
+- $5 Vultr KVM VPS: https://justyy.com/out/vultr2
+- TopCashBack (UK) https://justyy.com/out/tcb
+- American Express Credit Card (UK) https://justyy.com/out/amex
+- Plusnet Fibre (UK) https://justyy.com/out/plusnet
 
 # Donations
 - https://www.paypal.me/doctorlai/5
