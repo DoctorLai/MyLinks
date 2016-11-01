@@ -39,5 +39,5 @@
 - Plusnet Fibre (UK) https://justyy.com/out/plusnet
 
 # Donations
-- https://www.paypal.me/doctorlai/5
-- https://helloacm.com/api/echo/?s=bitcoin:1J88t5UAgKBHhMgzkyH9bpY5mPdCYAe5XQ
+- Paypal: https://www.paypal.me/doctorlai/5
+- Bitcoin: https://helloacm.com/api/echo/?s=bitcoin:1J88t5UAgKBHhMgzkyH9bpY5mPdCYAe5XQ
