@@ -1,3 +1,8 @@
+# ACM Links
+- http://acm.timus.ru/author.aspx?id=225064
+- http://acm.timus.ru/author.aspx?id=46914
+- http://codeforces.com/blog/DoctorLai
+
 # Domains
 - https://justyy.com 
 - https://weibomiaopai.com 
