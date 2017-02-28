@@ -43,8 +43,8 @@ My social profiles:
 
 ## Products I recommend
 I use them and recommend them to you.
-- $5 Vultr KVM Cloud VPS ($20 Free Give-Away): https://justyy.com/out/vultr2
-- $5 Linode KVM Cloud VPS (Promotion Code: *podcastinit2017* for $20): https://happyukgo.com/out/linode 
+- $5 Vultr KVM Cloud VPS (**$20 Free Give-Away**): https://justyy.com/out/vultr2
+- $5 Linode KVM Cloud VPS (Promotion Code: **podcastinit2017** for $20): https://happyukgo.com/out/linode 
 - TopCashBack (UK) https://justyy.com/out/tcb
 - American Express Credit Card (UK) https://justyy.com/out/amex
 - Plusnet Fibre (UK) https://justyy.com/out/plusnet
