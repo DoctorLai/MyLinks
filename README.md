@@ -1,6 +1,18 @@
 # The Useful Links
 I keep this page as a notebook of links that are useful to myself.
 
+## Products I recommend
+I use them and recommend them to you.
+- $5 Vultr KVM Cloud VPS (**$20 Free Give-Away**): https://justyy.com/out/vultr2
+- $5 Linode KVM Cloud VPS (Promotion Code: **podcastinit2017** for $20): https://happyukgo.com/out/linode 
+- TopCashBack (UK) https://justyy.com/out/tcb
+- American Express Credit Card (UK) https://justyy.com/out/amex
+- Plusnet Fibre (UK) https://justyy.com/out/plusnet
+- QuickHostUK VPS (KVM): https://justyy.com/out/quickhostuk
+- Namesilo Domain Registration: https://justyy.com/out/namesilo
+
+Other affliate links can be found: https://steakovercooked.com/doctor-zhihua-lai-resume.php#links
+
 ## ACM Links
 I submit code from time to time.
 - https://leetcode.com/steakovercooked/
@@ -41,18 +53,6 @@ My social profiles:
 - https://weibo.com/drlai
 - https://www.facebook.com/ACMer2013/
 - https://uk.pinterest.com/steakovercooked/
-
-## Products I recommend
-I use them and recommend them to you.
-- $5 Vultr KVM Cloud VPS (**$20 Free Give-Away**): https://justyy.com/out/vultr2
-- $5 Linode KVM Cloud VPS (Promotion Code: **podcastinit2017** for $20): https://happyukgo.com/out/linode 
-- TopCashBack (UK) https://justyy.com/out/tcb
-- American Express Credit Card (UK) https://justyy.com/out/amex
-- Plusnet Fibre (UK) https://justyy.com/out/plusnet
-- QuickHostUK VPS (KVM): https://justyy.com/out/quickhostuk
-- Namesilo Domain Registration: https://justyy.com/out/namesilo
-
-Other affliate links can be found: https://steakovercooked.com/doctor-zhihua-lai-resume.php#links
 
 ## Donations
 Support my work.
