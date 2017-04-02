@@ -53,6 +53,7 @@ My social profiles:
 - https://weibo.com/drlai
 - https://www.facebook.com/ACMer2013/
 - https://uk.pinterest.com/steakovercooked/
+- http://www.jianshu.com/u/601898c1d89e
 
 ## Donations
 Support my work.
