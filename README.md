@@ -3,19 +3,26 @@ I keep this page as a notebook of links that are useful to myself.
 
 ## Products I recommend
 I use them and recommend them to you.
-- $5 Vultr KVM Cloud VPS (**$10 Free Give-Away**): https://justyy.com/out/vultr2
-- $5 Linode KVM Cloud VPS (Promotion Code: **podcastinit2018** for $20): https://happyukgo.com/out/linode 
-- $5 DigitalOcean KVM Cloud VPS (**$10 Free Give-Away**): https://steemyy.com/out/do
-- TopCashBack (UK) https://justyy.com/out/tcb
-- American Express Credit Card (UK) https://justyy.com/out/amex
-- Plusnet Fibre (UK) https://justyy.com/out/plusnet
-- QuickHostUK VPS (KVM): https://justyy.com/out/quickhostuk
-- Namesilo Domain Registration: https://justyy.com/out/namesilo
 
-Other affliate links can be found: https://steakovercooked.com/doctor-zhihua-lai-resume.php#links
+### Cloud VPS
+- [$5 Vultr KVM Cloud VPS (**$10 Free Give-Away**)](https://justyy.com/out/vultr2)
+- [$5 Linode KVM Cloud VPS (Promotion Code: **podcastinit2018** for $20)](https://happyukgo.com/out/linode)
+- [$5 DigitalOcean KVM Cloud VPS (**$10 Free Give-Away**)](https://steemyy.com/out/do)
+- [QuickHostUK VPS (KVM)](https://justyy.com/out/quickhostuk)
+
+### Domain Registration
+- [Namesilo Domain Registration](https://justyy.com/out/namesilo)
+
+### UK Products
+- [TopCashBack (UK)](https://justyy.com/out/tcb)
+- [American Express Credit Card (UK)](https://justyy.com/out/amex)
+- [Plusnet Fibre (UK)](https://justyy.com/out/plusnet)
+
+Other affliate links can be found [here](https://steakovercooked.com/doctor-zhihua-lai-resume.php#links).
 
 ## ACM Links
-I submit code from time to time.
+I submit code from time to time. I love solving online puzzles.
+
 - https://leetcode.com/justyy
 - http://acm.timus.ru/author.aspx?id=225064
 - http://acm.timus.ru/author.aspx?id=46914
@@ -58,6 +65,6 @@ My social profiles:
 - http://www.jianshu.com/u/601898c1d89e
 
 ## Donations
-Support my work.
-- Paypal: https://www.paypal.me/doctorlai/3
-- Bitcoin: https://helloacm.com/api/echo/?s=bitcoin:1J88t5UAgKBHhMgzkyH9bpY5mPdCYAe5XQ
+Thank you for buying me a coffee.
+- Paypal: [dr.zhihua.lai@gmail.com](https://www.paypal.me/doctorlai/3)
+- Bitcoin: [3JhQM2KmVxRpVtMaHJKA76SGGqNtU4TaST](https://helloacm.com/api/echo/?s=bitcoin:3JhQM2KmVxRpVtMaHJKA76SGGqNtU4TaST)
