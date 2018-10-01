@@ -3,8 +3,9 @@ I keep this page as a notebook of links that are useful to myself.
 
 ## Products I recommend
 I use them and recommend them to you.
-- $5 Vultr KVM Cloud VPS (**$20 Free Give-Away**): https://justyy.com/out/vultr2
-- $5 Linode KVM Cloud VPS (Promotion Code: **podcastinit2017** for $20): https://happyukgo.com/out/linode 
+- $5 Vultr KVM Cloud VPS (**$10 Free Give-Away**): https://justyy.com/out/vultr2
+- $5 Linode KVM Cloud VPS (Promotion Code: **podcastinit2018** for $20): https://happyukgo.com/out/linode 
+- $5 DigitalOcean KVM Cloud VPS (**$10 Free Give-Away**): https://steemyy.com/out/do
 - TopCashBack (UK) https://justyy.com/out/tcb
 - American Express Credit Card (UK) https://justyy.com/out/amex
 - Plusnet Fibre (UK) https://justyy.com/out/plusnet
@@ -15,7 +16,7 @@ Other affliate links can be found: https://steakovercooked.com/doctor-zhihua-lai
 
 ## ACM Links
 I submit code from time to time.
-- https://leetcode.com/steakovercooked/
+- https://leetcode.com/justyy
 - http://acm.timus.ru/author.aspx?id=225064
 - http://acm.timus.ru/author.aspx?id=46914
 - http://codeforces.com/blog/DoctorLai
@@ -32,7 +33,8 @@ Here is the list of the useful websites:
 - https://steakovercooked.com 
 - https://happyukgo.com 
 - https://isvbscriptdead.com
-- https://propagationtools.com/
+- https://propagationtools.com
+- https://steemyy.com
 
 ## Profile
 My profile links:
@@ -45,7 +47,6 @@ My profile links:
 ## Social Media
 My social profiles:
 - https://steemit.com/@justyy/
-- https://steemit.com/@happyukgo/
 - https://www.facebook.com/zhihua.lai
 - https://plus.google.com/u/0/109685871240007844960/posts/p/pub
 - https://www.linkedin.com/in/drlai
