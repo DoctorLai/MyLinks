@@ -8,6 +8,7 @@ I use them and recommend them to you.
 - [$5 Vultr KVM Cloud VPS (**$10 Free Give-Away**)](https://justyy.com/out/vultr2)
 - [$5 Linode KVM Cloud VPS (Promotion Code: **podcastinit2018** for $20)](https://happyukgo.com/out/linode)
 - [$5 DigitalOcean KVM Cloud VPS (**$10 Free Give-Away**)](https://steemyy.com/out/do)
+- [Very Cheap KVM VPS - SupremeVPS](https://anothervps.com/out/svps)
 - [QuickHostUK VPS (KVM)](https://justyy.com/out/quickhostuk)
 
 ### Domain Registration
@@ -42,6 +43,7 @@ Here is the list of the useful websites:
 - https://isvbscriptdead.com
 - https://propagationtools.com
 - https://steemyy.com
+- https://anothervps.com
 
 ## Profile
 My profile links:
