@@ -1,9 +1,3 @@
-# The Useful Links
-I keep this page as a notebook of links that are useful to myself.
-
-## Products I recommend
-I use them and recommend them to you.
-
 ### Cloud VPS
 - [$5 Vultr KVM Cloud VPS (**$10 Free Give-Away**)](https://justyy.com/out/vultr2)
 - [$5 Linode KVM Cloud VPS (Promotion Code: **podcastinit2018** for $20)](https://happyukgo.com/out/linode)
@@ -45,28 +39,7 @@ Here is the list of the useful websites:
 - https://steemyy.com
 - https://anothervps.com
 
-## Profile
-My profile links:
-- https://about.me/zhihua.lai
-- https://stackoverflow.com/cv/steakovercooked
-- https://www.v2ex.com/member/justyy
-- https://steakovercooked.quora.com/
-- https://500px.com/steakovercooked
-
-## Social Media
-My social profiles:
-- https://steemit.com/@justyy/
-- https://www.facebook.com/zhihua.lai
-- https://plus.google.com/u/0/109685871240007844960/posts/p/pub
-- https://www.linkedin.com/in/drlai
-- https://www.instagram.com/doctorlai/
-- https://twitter.com/doctorzlai
-- https://weibo.com/drlai
-- https://www.facebook.com/ACMer2013/
-- https://uk.pinterest.com/steakovercooked/
-- http://www.jianshu.com/u/601898c1d89e
-
 ## Donations
 Thank you for buying me a coffee.
-- Paypal: [dr.zhihua.lai@gmail.com](https://www.paypal.me/doctorlai/3)
+- Paypal: https://www.paypal.me/doctorlai/3
 - Bitcoin: [3JhQM2KmVxRpVtMaHJKA76SGGqNtU4TaST](https://helloacm.com/api/echo/?s=bitcoin:3JhQM2KmVxRpVtMaHJKA76SGGqNtU4TaST)
