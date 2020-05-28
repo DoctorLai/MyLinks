@@ -8,13 +8,6 @@
 ### Domain Registration
 - [Namesilo Domain Registration](https://justyy.com/out/namesilo)
 
-### UK Products
-- [TopCashBack (UK)](https://justyy.com/out/tcb)
-- [American Express Credit Card (UK)](https://justyy.com/out/amex)
-- [Plusnet Fibre (UK)](https://justyy.com/out/plusnet)
-
-Other affliate links can be found [here](https://steakovercooked.com/doctor-zhihua-lai-resume.php#links).
-
 ## ACM Links
 I submit code from time to time. I love solving online puzzles.
 
@@ -23,23 +16,8 @@ I submit code from time to time. I love solving online puzzles.
 - http://acm.timus.ru/author.aspx?id=46914
 - http://codeforces.com/blog/DoctorLai
 
-## Domains
-Here is the list of the useful websites:
-- https://justyy.com 
-- https://weibomiaopai.com 
-- https://helloacm.com 
-- https://uploadbeta.com 
-- https://rot47.net 
-- https://codingforspeed.com 
-- https://zhihua-lai.com 
-- https://steakovercooked.com 
-- https://happyukgo.com 
-- https://isvbscriptdead.com
-- https://propagationtools.com
-- https://steemyy.com
-- https://anothervps.com
-
 ## Donations
 Thank you for buying me a coffee.
+- Buy Me a Coffee: https://helloacm.com/out/buymecoffee
 - Paypal: https://www.paypal.me/doctorlai/3
 - Bitcoin: [3JhQM2KmVxRpVtMaHJKA76SGGqNtU4TaST](https://helloacm.com/api/echo/?s=bitcoin:3JhQM2KmVxRpVtMaHJKA76SGGqNtU4TaST)
