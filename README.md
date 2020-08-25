@@ -10,8 +10,8 @@
 
 ## ACM Links
 I submit code from time to time. I love solving online puzzles.
-
 - https://leetcode.com/justyy
+- https://leetcode-cn.com/justyyuk/
 - http://acm.timus.ru/author.aspx?id=225064
 - http://acm.timus.ru/author.aspx?id=46914
 - http://codeforces.com/blog/DoctorLai
